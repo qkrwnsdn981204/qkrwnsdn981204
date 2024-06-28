@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=박준우's Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😀박준우's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 <h3 align="center"> 안녕하세요. <br> 성장 가능성이 높은 개발자 박준우입니다. </h3>
