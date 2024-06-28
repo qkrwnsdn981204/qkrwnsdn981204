@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="center"> 안녕하세요. <br> 성장 가능성이 높은 개발자 박준우입니다. </h3>
-<h3 align="center">✉ Email</h3>
-<h4 align="center">wnsdn3024@naver.com</h4>
-
+<h3 align="center">✉ Email<br>wnsdn3024@naver.com</h3>
 <h2 align="center"> 👇 주 기술 스택  </h2>
 
 <div align="center">
